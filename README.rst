@@ -31,7 +31,6 @@ ok but how 2 use
 2. make sure to put this in an ACCESSIBLE place. you can put in a new file and import the decorator from the file, or just put it in the same file
 3. use decorator
 
-
 .. code:: python
     @check_types
     def shoot_balls(who : str, *, why : str, how : str = "gun"):
