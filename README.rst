@@ -8,7 +8,7 @@ y did i make dis
 i enjoy how in java, arguments in methods have a specified type that you must pass in. 
 
 for example,
-.. code::java
+.. code:: sh
 
     public static void killBalls(String name) {
     	System.out.println("i have executed the balls of" + name)
